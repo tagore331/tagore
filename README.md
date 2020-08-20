@@ -1,14 +1,13 @@
-This program read three numbers and read their sum:
-print("Dr.Tusar Kanti Mishra-500737")
-a = int(input())
+program
+# Read the numbers band h like this
 b = int(input())
-c = int(input())
-sum=a+b+c
-print('SUM = ',sum)
+h = int(input())
+area = 0.5*h
+print(area)
 
-output
-Dr Tusar Kanti Mishra-500737
+print the result with print ()
+
+output:
 2
 3
-4
-SUM = 9
+3.0
