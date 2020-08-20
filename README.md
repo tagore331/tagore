@@ -1,13 +1,14 @@
-# Read an integer:
-number= int(input())
-# a = int(input())
-next_number= number+1
-previous_number=number-1
-# Print a value:
-print("The next number for the number "+ str(number) + " is "+ str(next_number))
-print("The previous number for the number " + str(number) + " is " + str(previous_number))
-# print(a)
+This program read three numbers and read their sum:
+print("Dr.Tusar Kanti Mishra-500737")
+a = int(input())
+b = int(input())
+c = int(input())
+sum=a+b+c
+print('SUM = ',sum)
 
-output:
-the next number for 2 is 3
-the previous number for 2 is 1
+output
+Dr Tusar Kanti Mishra-500737
+2
+3
+4
+SUM = 9
